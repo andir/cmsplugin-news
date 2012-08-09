@@ -32,6 +32,7 @@ History
 -------
 0.3c:
     * add album support
+    * forked to Github from https://bitbucket.org/zerok/cmsplugin-news/
 
 0.3:
     * Moved to beta phase
