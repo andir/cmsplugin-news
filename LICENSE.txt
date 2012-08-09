@@ -1,4 +1,4 @@
-Copyright (c) 2009-2012, Harro van der Klauw, Horst Gutmann
+Copyright (c) 2009-2012, Harro van der Klauw, Horst Gutmann, Andrew Koltsov
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 

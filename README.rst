@@ -30,13 +30,8 @@ Last tested with
 
 History
 -------
-
-0.4 (unreleased):
-    * Probably a new maintainer
-    * RSS/Atom feed
-    * CMS menu integration
-    * Upgrade to django-cms 2.2
-    * ...
+0.3c:
+    * add album support
 
 0.3:
     * Moved to beta phase
